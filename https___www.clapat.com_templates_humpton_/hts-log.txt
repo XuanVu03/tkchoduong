@@ -1,0 +1,417 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Aug 2023 09:49:14 at https://www.clapat.com/templates/humpton/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.clapat.com/templates/humpton/ -O1 "C:\Users\Admin\Desktop\New folder\https___www.clapat.com_templates_humpton_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project05/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-showcase/project06/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-showcase/project06/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project05/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/index-carousel/project06/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/index-carousel/project06/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project05/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project06/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/project06/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project05/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project06/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-parallax-grid/project06/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project01/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project01/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project05/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/portfolio-grid/project06/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/portfolio-grid/project06/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/about/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/about/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/contact/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/contact/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/typography/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/typography/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/multimedia/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/multimedia/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/shortcodes/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/shortcodes/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project01/project02/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project01/project02/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project02/project03/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project02/project03/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project03/project04/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project03/project04/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/index/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/index/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/index-showcase/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/index-showcase/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/index-carousel/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/index-carousel/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/portfolio-overlapping-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/portfolio-overlapping-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/portfolio-parallax-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/portfolio-parallax-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/portfolio-grid/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/portfolio-grid/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/about/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/about/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/contact/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/contact/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/typography/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/typography/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/multimedia/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/multimedia/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/shortcodes/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/shortcodes/ to https://www.clapat.com/404/
+09:57:55	Warning: 	Found for https://www.clapat.com/templates/humpton/project04/project05/
+09:57:55	Warning: 	File has moved from https://www.clapat.com/templates/humpton/project04/project05/ to https://www.clapat.com/404/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 41 seconds : 271 links scanned, 67 files written (9001234 bytes overall) [7621061 bytes received at 14627 bytes/sec], 2232508 bytes transferred using HTTP compression in 38 files, ratio 22%, 1.5 requests per connection
+(No errors, 406 warnings, 0 messages)

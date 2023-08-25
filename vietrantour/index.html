@@ -1,0 +1,401 @@
+@extends($THEME_FE_EXTEND)
+
+@section('CONTENT_REGION')
+    <div id="wrapper">
+        <!-- content-->
+        <div class="content">
+            <!--section -->
+            <section class="hero-section" data-scrollax-parent="true" id="sec1">
+                <div class="hero-parallax">
+                    <div class="bg"  data-bg="{{ public_link('vietrantour/images/bg/22.jpg') }}" data-scrollax="properties: { translateY: '200px' }"></div>
+                    <div class="overlay op7"></div>
+                </div>
+            </section>
+            <!-- section end -->
+            <!--section -->
+            <section class="grey-blue-bg">
+                <!-- container-->
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>TOUR KHUYáº¾N Máº I</h2></a>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                </div>
+                <!-- container end-->
+                <!-- carousel -->
+                <div class="list-carousel fl-wrap card-listing ">
+                    <!--listing-carousel-->
+                    <div class="listing-carousel fl-wrap" data-slick='{"slidesToShow": 5, "slidesToScroll": 4}'>
+                        @include('FE::FeTours.views.slick-item', ['lsObj' => $lsToursKhuyenMai, 'sale' => true])
+                    </div>
+                    <!--listing-carousel end-->
+                    <div class="swiper-button-prev sw-btn"><i class="fa fa-long-arrow-left"></i></div>
+                    <div class="swiper-button-next sw-btn"><i class="fa fa-long-arrow-right"></i></div>
+                </div>
+                <!--  carousel end-->
+            </section>
+
+            <section id="sec2">
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>DU Lá»ŠCH VÃ€ COMBO</h2></a>
+                        <span class="section-separator"></span>
+                        <p>KhÃ¡m phÃ¡ má»™t sá»‘ máº¹o hay nháº¥t trong thÃ nh phá»‘ tá»« cÃ¡c Ä‘á»‘i tÃ¡c vÃ  báº¡n bÃ¨ cá»§a chÃºng tÃ´i.</p>
+                    </div>
+                </div>
+                <!-- portfolio start -->
+                <div class="gallery-items fl-wrap mr-bot spad home-grid">
+                    @for($i = 0; $i < 10; $i++)
+                    <!-- gallery-item-->
+                    <div class="gallery-item">
+                        <div class="grid-item-holder">
+                            <div class="listing-item-grid">
+                                <div class="listing-counter"><span>79 </span> Ä�iá»ƒm du lá»‹ch</div>
+                                <img  src="{{ public_link('vietrantour/images/city/'.rand(2, 7).'.jpg') }}"   alt="">
+                                <div class="listing-item-cat">
+                                    <h3><a href="listing.html">Rome</a></h3>
+                                    <div class="weather-grid"   data-grcity="Rome"></div>
+                                    <div class="clearfix"></div>
+                                    <p>Constant care and attention to the patients makes good record</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- gallery-item end-->
+                    @endfor
+                </div>
+                <!-- portfolio end -->
+                <a href="listing.html" class="btn-more color-bg">KhÃ¡m phÃ¡ táº¥t cáº£ cÃ¡c thÃ nh phá»‘<i class="fas fa-caret-right"></i></a>
+
+            </section>
+            <!-- section end -->
+            <!-- section-->
+
+
+            <!-- TOUR Ä�Æ¯á»œNG Bá»˜ KÃ�CH Cáº¦U -->
+
+
+            <section class="grey-blue-bg">
+                <!-- container-->
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>TOUR GIá»œ CHÃ“T</h2></a>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                </div>
+                <!-- container end-->
+                <!-- carousel -->
+                <div class="list-carousel fl-wrap card-listing ">
+                    <!--listing-carousel-->
+                    <div class="listing-carousel  fl-wrap ">
+                        @include('FE::FeTours.views.slick-item', ['lsObj' => $lsToursGioChot])
+                    </div>
+                    <!--listing-carousel end-->
+                    <div class="swiper-button-prev sw-btn"><i class="fa fa-long-arrow-left"></i></div>
+                    <div class="swiper-button-next sw-btn"><i class="fa fa-long-arrow-right"></i></div>
+                </div>
+                <!--  carousel end-->
+            </section>
+
+            <section class="grey-blue-bg">
+                <!-- container-->
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>TOUR Ä�Æ¯á»œNG Bá»˜ KÃ�CH Cáº¦U</h2></a>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                </div>
+                <!-- container end-->
+                <div class="container-fluid">
+                    <div class="row init-grid-items position-relative">
+                    @for($i =0; $i < 10; $i++)
+                        <!-- listing-item  -->
+                            <div class="col-md-4 col-xl-3 mb-3">
+                                <article class="geodir-category-listing fl-wrap">
+                                    <div class="geodir-category-img">
+                                        <a href="listing-single.html"><img src="{{ public_link('vietrantour/images/gal/'.rand(1, 8).'.jpg') }}" alt=""></a>
+                                        <div class="listing-avatar"><a href="author-single.html"><img src="{{ public_link('vietrantour/images/avatar/'.rand(1, 8).'.jpg') }}" alt=""></a>
+                                            <span class="avatar-tooltip">Added By  <strong>Alisa Noory</strong></span>
+                                        </div>
+                                        <div class="sale-window">Sale 20%</div>
+                                        <div class="geodir-category-opt">
+                                            <div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+                                            <div class="rate-class-name">
+                                                <div class="score"><strong>Very Good</strong>27 Reviews </div>
+                                                <span>5.0</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="geodir-category-content fl-wrap">
+                                        <div class="geodir-category-content-title fl-wrap">
+                                            <div class="geodir-category-content-title-item">
+                                                <h3 class="title-sin_map"><a href="listing-single.html">Premium Plaza Hotel</a></h3>
+                                                <div class="geodir-category-location fl-wrap"><a href="#0" class="map-item"><i class="fas fa-map-marker-alt"></i> 27th Brooklyn New York, USA</a></div>
+                                            </div>
+                                        </div>
+                                        <p>Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                        <ul class="facilities-list fl-wrap">
+                                            <li><i class="fal fa-wifi"></i><span>Free WiFi</span></li>
+                                            <li><i class="fal fa-parking"></i><span>Parking</span></li>
+                                            <li><i class="fal fa-smoking-ban"></i><span>Non-smoking Rooms</span></li>
+                                            <li><i class="fal fa-utensils"></i><span> Restaurant</span></li>
+                                        </ul>
+                                        <div class="geodir-category-footer fl-wrap">
+                                            <div class="geodir-category-price">Awg/Night <span>$ 320</span></div>
+                                            <div class="geodir-opt-list">
+                                                <a href="#0" class="map-item"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>1</strong></span></a>
+                                                <a href="#" class="geodir-js-favorite"><i class="fal fa-heart"></i><span class="geodir-opt-tooltip">Save</span></a>
+                                                <a href="#" class="geodir-js-booking"><i class="fal fa-exchange"></i><span class="geodir-opt-tooltip">Find Directions</span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                            <!-- listing-item end -->
+							<div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
+                        @endfor
+                    </div>
+                </div>
+            </section>
+
+            <section class="grey-blue-bg">
+                <!-- container-->
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>TOUR Ä�Æ¯á»œNG Bá»˜ KÃ�CH Cáº¦U</h2></a>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                </div>
+                <!-- container end-->
+                <!-- carousel -->
+                <div class="list-carousel fl-wrap card-listing ">
+                    <!--listing-carousel-->
+                    <div class="listing-carousel  fl-wrap ">
+                        @include('FE::FeTours.views.slick-item')
+                    </div>
+                    <!--listing-carousel end-->
+                    <div class="swiper-button-prev sw-btn"><i class="fa fa-long-arrow-left"></i></div>
+                    <div class="swiper-button-next sw-btn"><i class="fa fa-long-arrow-right"></i></div>
+                </div>
+                <!--  carousel end-->
+            </section>
+
+
+            <!--section -->
+            <section>
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <h2>Táº I SAO Lá»°A CHá»ŒN DOANH NGHIá»†P Cá»¦A CHÃšNG TÃ”I</h2>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                    <!-- -->
+                    <div class="row">
+                        <div class="col-md-4">
+                            <!-- process-item-->
+                            <div class="process-item big-pad-pr-item">
+                                <span class="process-count"> </span>
+                                <div class="time-line-icon"><i class="fal fa-headset"></i></div>
+                                <h4><a href="#">Ä�áº£m báº£o dá»‹ch vá»¥ tá»‘t nháº¥t</a></h4>
+                            </div>
+                            <!-- process-item end -->
+                        </div>
+                        <div class="col-md-4">
+                            <!-- process-item-->
+                            <div class="process-item big-pad-pr-item">
+                                <span class="process-count"> </span>
+                                <div class="time-line-icon"><i class="fal fa-gift"></i></div>
+                                <h4> <a href="#">QuÃ  táº·ng Ä‘á»™c quyá»�n</a></h4>
+                            </div>
+                            <!-- process-item end -->
+                        </div>
+                        <div class="col-md-4">
+                            <!-- process-item-->
+                            <div class="process-item big-pad-pr-item nodecpre">
+                                <span class="process-count"> </span>
+                                <div class="time-line-icon"><i class="fal fa-credit-card"></i></div>
+                                <h4><a href="#">Nháº­n Ä‘Æ°á»£c nhiá»�u hÆ¡n tá»« tháº» cá»§a báº¡n</a></h4>
+                            </div>
+                            <!-- process-item end -->
+                        </div>
+                    </div>
+                    <!--process-wrap   end-->
+                    <div class=" single-facts fl-wrap mar-top">
+                        <!-- inline-facts -->
+                        <div class="inline-facts-wrap">
+                            <div class="inline-facts">
+                                <i class="fal fa-users"></i>
+                                <div class="milestone-counter">
+                                    <div class="stats animaper">
+                                        <div class="num" data-content="0" data-num="3680">3680</div>
+                                    </div>
+                                </div>
+                                <h6>NgÆ°á»�i truy cáº­p má»›i má»—i tuáº§n</h6>
+                            </div>
+                        </div>
+                        <!-- inline-facts end -->
+                        <!-- inline-facts  -->
+                        <div class="inline-facts-wrap">
+                            <div class="inline-facts">
+                                <i class="fal fa-thumbs-up"></i>
+                                <div class="milestone-counter">
+                                    <div class="stats animaper">
+                                        <div class="num" data-content="0" data-num="12168">12168</div>
+                                    </div>
+                                </div>
+                                <h6>KhÃ¡ch hÃ ng yÃªu thÃ­ch dá»‹ch vá»¥</h6>
+                            </div>
+                        </div>
+                        <!-- inline-facts end -->
+                        <!-- inline-facts  -->
+                        <div class="inline-facts-wrap">
+                            <div class="inline-facts">
+                                <i class="fal fa-award"></i>
+                                <div class="milestone-counter">
+                                    <div class="stats animaper">
+                                        <div class="num" data-content="0" data-num="172">172</div>
+                                    </div>
+                                </div>
+                                <h6>GiÃ nh giáº£i thÆ°á»Ÿng</h6>
+                            </div>
+                        </div>
+                        <!-- inline-facts end -->
+                        <!-- inline-facts  -->
+                        <div class="inline-facts-wrap">
+                            <div class="inline-facts">
+                                <i class="fal fa-hotel"></i>
+                                <div class="milestone-counter">
+                                    <div class="stats animaper">
+                                        <div class="num" data-content="0" data-num="732">732</div>
+                                    </div>
+                                </div>
+                                <h6>Danh sÃ¡ch má»›i má»—i tuáº§n</h6>
+                            </div>
+                        </div>
+                        <!-- inline-facts end -->
+                    </div>
+                </div>
+            </section>
+            <!-- section end -->
+            <!--section -->
+            <section class="color-bg hidden-section">
+                <div class="wave-bg wave-bg2"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- -->
+                            <div class="colomn-text  pad-top-column-text fl-wrap">
+                                <div class="colomn-text-title">
+                                    <h3>á»¨ng dá»¥ng</h3>
+                                    <a href="#" class=" down-btn color3-bg"><i class="fab fa-apple"></i> Download for iPhone</a>
+                                    <a href="#" class=" down-btn color3-bg"><i class="fab fa-android"></i> Download for Android</a>
+                                </div>
+                            </div>
+                            <!--process-wrap   end-->
+                        </div>
+                        <div class="col-md-6">
+                            <div class="collage-image">
+                                <img src="{{ public_link('vietrantour/images/api.png') }}" class="main-collage-image" alt="">
+                                <div class="images-collage-title color3-bg">Vietran<span>tour</span></div>
+                                <div class="collage-image-min cim_1"><img src="{{ public_link('vietrantour/images/api/1.jpg') }}" alt=""></div>
+                                <div class="collage-image-min cim_2"><img src="{{ public_link('vietrantour/images/api/2.jpg') }}" alt=""></div>
+                                <div class="collage-image-min cim_3"><img src="{{ public_link('vietrantour/images/api/3.jpg') }}" alt=""></div>
+                                <div class="collage-image-input">Search <i class="fa fa-search"></i></div>
+                                <div class="collage-image-btn color2-bg">Ä�áº·t ngay</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section end -->
+            <!--section -->
+            <section>
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <h2>Pháº£n há»“i cá»§a khÃ¡ch hÃ ng</h2>
+                        <span class="section-separator"></span>
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.</p> -->
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <!--slider-carousel-wrap -->
+                <div class="slider-carousel-wrap text-carousel-wrap fl-wrap">
+                    <div class="swiper-button-prev sw-btn"><i class="fa fa-long-arrow-left"></i></div>
+                    <div class="swiper-button-next sw-btn"><i class="fa fa-long-arrow-right"></i></div>
+                    <div class="text-carousel single-carousel fl-wrap">
+                        @for($i = 1; $i < 6; $i++)
+                        <!--slick-item -->
+                        <div class="slick-item">
+                            <div class="text-carousel-item">
+                                <div class="popup-avatar"><img src="{{ public_link('vietrantour/images/avatar/'.rand(1, 4).'.jpg') }}" alt=""></div>
+                                <div class="listing-rating card-popup-rainingvis" data-starrating2="5"> </div>
+                                <div class="review-owner fl-wrap">Milka Antony  - <span>Happy Client</span></div>
+                                <p> "In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna. Etiam suscipit commodo gravida. Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonu mmy nibh euismod tincidunt ut laoreet dolore magna aliquam erat."</p>
+                                <a href="#" class="testim-link">Via Facebook</a>
+                            </div>
+                        </div>
+                        <!--slick-item end -->
+                        @endfor
+                    </div>
+                </div>
+                <!--slider-carousel-wrap end-->
+            </section>
+            <!-- section end-->
+
+            <!--section -->
+            <section class=" middle-padding">
+                <div class="container">
+                    <div class="section-title">
+                        <!-- <div class="section-title-separator"><span></span></div> -->
+                        <a href="#"><h2>Cáº¨M NANG DU Lá»ŠCH | TIN Tá»¨C</h2></a>
+                        <span class="section-separator"></span>
+                        <!-- <p>Browse the latest articles from our blog.</p> -->
+                    </div>
+                    <div class="row home-posts">
+                        @for($i = 1; $i < 7; $i++)
+                        <div class="col-md-4">
+                            <article class="card-post">
+                                <div class="card-post-img fl-wrap">
+                                    <a href="blog-single.html"><img src="{{ public_link('vietrantour/images/all/'.rand(1, 10).'.jpg') }}"   alt=""></a>
+                                </div>
+                                <div class="card-post-content fl-wrap">
+                                    <h3><a href="blog-single.html">Blog Post Title.</a></h3>
+                                    <p>In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna. Etiam suscipit commodo gravida. </p>
+                                    <div class="post-author"><a href="#"><img src="{{ public_link('vietrantour/images/avatar/'.rand(1, 4).'.jpg') }}" alt=""><span>By , Mery Lynn</span></a></div>
+                                    <div class="post-opt">
+                                        <ul>
+                                            <li><i class="fal fa-calendar"></i> <span>25 April 2018</span></li>
+                                            <li><i class="fal fa-eye"></i> <span>264</span></li>
+                                            <li><i class="fal fa-tags"></i> <a href="#">Design</a>  </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        @endfor
+                    </div>
+                    <a href="blog.html" class="btn-more color-bg">Xem ThÃªm Nhiá»�u<i class="fas fa-caret-right"></i></a>
+                </div>
+                <div class="section-decor"></div>
+            </section>
+        </div>
+        <!-- content end-->
+    </div>
+@stop
+
+@section('JS_REGION')
+
+@stop

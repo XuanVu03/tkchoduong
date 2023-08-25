@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Xác Thực Email</title>
+	<style>
+		*{margin: 0;padding: 0;}
+		.container{
+			width: 1000px;
+			margin: auto;
+		}
+		.banner{
+			width: auto;
+			height: 200px;
+			background-color: #ECF6F8;
+			margin-bottom: 50px;
+		}
+		.banner img{
+			width: 250px;
+			height: auto;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			padding-top: 60px;
+		}
+		.content{
+			width: auto;
+		}
+		p{
+			font-size: 25px;
+			font-family: Helvetica, Arial, Tahoma, sans-serif;
+		}
+		.submit
+		{
+			background-color: #15c;
+			width: 250px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+		/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width:320px)and (max-device-width:480px) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width:321px) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width:320px) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:768px)and (max-device-width:1024px) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* iPads (landscape) ----------- */
+@media only scree and (min-device-width:768px)and (max-device-width:1024px)and (orientation:landscape) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width:768px)and (max-device-width:1024px)and (orientation:portrait) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+
+/* iPhone 4 - 5s ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-device-pixel-ratio:1.5) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* iPhone 6 ----------- */
+@media only screen and (max-device-width:667px)only screen and (-webkit-device-pixel-ratio:2) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+/* iPhone 6+----------- */
+@media only screen and (min-device-width:414px)only screen and (-webkit-device-pixel-ratio:3) {
+	.container{
+				width: auto;
+				margin: auto;
+			}
+			.content p{
+				font-size: 30px;
+			}
+			.content{
+				margin: 25px 30px 100px;
+			}
+			.submit
+		{
+			background-color: #15c;
+			width:400px;
+			height: 50px;
+			border-radius: 5px;
+			font-size: 20px;
+		}
+		.content a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+			padding-left: 20px;
+			line-height: 50px;
+		}
+}
+
+</style>
+</head>
+<body>
+	.<div class="container">
+		<div class="banner">
+			<img src="vietrantour\public\vietrantour\images\logoVietrantour.png" alt="Logo Vietrantour">
+		</div>
+		<div class="content">
+			<h2 style="font-family: Helvetica, Arial, Tahoma, sans-serif;">Bạn Sắp Hoàn Thành</h2>
+			<br>
+			<p>Hi Thanh Tùng,</p>
+			<br>
+			<p>
+				Để hoàn tất việc thiết lập tài khoản của bạn và bắt đầu sử dụng Trello, hãy xác nhận rằng chúng tôi đã nhận được email chính xác cho bạn.
+			</p>
+			<br>
+			<a href="">
+				<div class="submit" style="font-family: Helvetica, Arial, Tahoma, sans-serif;">
+					Xác nhận email của bạn
+				</div>
+			</a>
+
+		</div>
+
+
+	</div>
+</body>
+</html>
